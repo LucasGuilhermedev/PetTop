@@ -8,6 +8,7 @@ body{
 
 header{
  background-image: linear-gradient(to bottom, #266AA6, #1f85df);
+ max-width: 10000px;
 }
 
 header > img{
